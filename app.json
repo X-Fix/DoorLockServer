@@ -1,0 +1,6 @@
+{
+  "name": "Node.js DoorLockServer",
+  "description": "A server used to communicate with the door lock database",
+  "repository": "https://github.com/heroku/door-lock-server",
+  "keywords": ["node", "express", "static"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "NickDoorLock",
+  "version": "0.1.2",
+  "description": "A web-app for unlocking the office door.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node testserver.js"
+  },
+  "dependencies": {
+    "body-parser": "1.11.0",
+    "bson": "^0.2.18",
+    "cors": "2.5.3",
+    "express": "^4.9.8",
+    "mongoose": "3.8.22"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/X-Fix/nick-door-lock.git"
+  },
+  "keywords": [
+    "node"
+  ]
+}
